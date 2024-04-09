@@ -124,7 +124,7 @@ The integration process involved configuring the OpenAI API and establishing a c
 
 <h1 align="center">Team</h1>
 <ul>
-	<li> Ayoub Hsaine</li>
 	<li> Achraf Rachid </li>
+	<li> Ayoub Hsaine</li>
 	<li> Ilhame Soufi</li>
 </ul>
